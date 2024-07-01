@@ -1,5 +1,4 @@
 # NurviaAgustin_2210010254_4C_PBO1
-PROYEK UAS PEMROGRAMAN BERBASIS OBJEK 1
 Proyek ini adalah contoh sederhana aplikasi pengolahan data KOST menggunakan Java sebagai tugas akhir dari mata kuliah pemrograman berbasis objek 1.
 
 ## Deskripsi
