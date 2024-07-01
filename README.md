@@ -9,7 +9,7 @@ Aplikasi ini mengimplementasikan beberapa konsep penting dalam pemrograman beror
 ## Penjelasan Kode
 Berikut adalah bagian kode yang relevan dengan konsep OOP yang dijelaskan:
 1. **Class** adalah template atau blueprint dari object. Pada kode ini, `Kost`, `KostDetail`, dan `KostBeraksi` adalah contoh dari class.
-   ```bash
+```bash
 public class Kost {
     ...
 }
